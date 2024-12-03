@@ -1,5 +1,7 @@
 github.com/Causevest/secp256k1 v0.0.0-20241203060356-408ad2ecc9a0 h1:UzMtzAYxFFcT/GzIGFXSPN9ag//AOubC9Bs5LNKBgns=
 github.com/Causevest/secp256k1 v0.0.0-20241203060356-408ad2ecc9a0/go.mod h1:VF4RtKQChLuw9NzJJ6Z0a1/C7F25Xzaf12Uo43RyX+o=
+github.com/Causevest/xcvec/chainhash v0.0.0-20241203063130-e35300d99aa8 h1:coKnG7VZ+/bSRsF7BtF1eiRkJuZ8IcbgX86r/mHWqMA=
+github.com/Causevest/xcvec/chainhash v0.0.0-20241203063130-e35300d99aa8/go.mod h1:bs0srUpcNnbRWEMHLMhJOac0NohFWAeQRsKJ+zfI7sY=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/decred/dcrd/crypto/blake256 v1.1.0 h1:zPMNGQCm0g4QTY27fOCorQW7EryeQ/U0x++OzVrdms8=

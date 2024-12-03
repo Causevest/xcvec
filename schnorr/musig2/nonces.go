@@ -10,8 +10,8 @@ import (
 	"io"
 
 	btcec "github.com/Causevest/xcvec"
+	"github.com/Causevest/xcvec/chainhash"
 	"github.com/Causevest/xcvec/schnorr"
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
 )
 
 const (
