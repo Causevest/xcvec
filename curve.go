@@ -6,7 +6,7 @@ package btcec
 import (
 	"fmt"
 
-	secp "github.com/decred/dcrd/dcrec/secp256k1/v4"
+	secp "github.com/Causevest/secp256k1"
 )
 
 // JacobianPoint is an element of the group formed by the secp256k1 curve in

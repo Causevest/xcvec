@@ -7,11 +7,11 @@ import (
 	"fmt"
 	"sort"
 
-	secp "github.com/decred/dcrd/dcrec/secp256k1/v4"
+	secp "github.com/Causevest/secp256k1"
 
-	"github.com/btcsuite/btcd/btcec/v2"
-	"github.com/btcsuite/btcd/btcec/v2/schnorr"
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
+	btcec "github.com/Causevest/xcvec"
+	"github.com/Causevest/xcvec/chainhash"
+	"github.com/Causevest/xcvec/schnorr"
 )
 
 var (

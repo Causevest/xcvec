@@ -5,7 +5,7 @@
 package btcec
 
 import (
-	secp "github.com/decred/dcrd/dcrec/secp256k1/v4"
+	secp "github.com/Causevest/secp256k1"
 )
 
 // GenerateSharedSecret generates a shared secret based on a private key and a

@@ -4,7 +4,7 @@
 package btcec
 
 import (
-	secp "github.com/decred/dcrd/dcrec/secp256k1/v4"
+	secp "github.com/Causevest/secp256k1"
 )
 
 // ModNScalar implements optimized 256-bit constant-time fixed-precision

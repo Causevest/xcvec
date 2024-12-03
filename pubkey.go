@@ -5,7 +5,7 @@
 package btcec
 
 import (
-	secp "github.com/decred/dcrd/dcrec/secp256k1/v4"
+	secp "github.com/Causevest/secp256k1"
 )
 
 // These constants define the lengths of serialized public keys.

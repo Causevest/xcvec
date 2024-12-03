@@ -9,7 +9,7 @@ import (
 	"math/big"
 	"testing"
 
-	secp "github.com/decred/dcrd/dcrec/secp256k1/v4"
+	secp "github.com/Causevest/secp256k1"
 )
 
 // setHex decodes the passed big-endian hex string into the internal field value

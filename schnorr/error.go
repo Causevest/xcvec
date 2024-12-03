@@ -6,7 +6,7 @@
 package schnorr
 
 import (
-	ecdsa_schnorr "github.com/decred/dcrd/dcrec/secp256k1/v4/schnorr"
+	ecdsa_schnorr "github.com/Causevest/secp256k1/schnorr"
 )
 
 // ErrorKind identifies a kind of error.  It has full support for errors.Is

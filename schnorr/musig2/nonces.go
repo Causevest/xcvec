@@ -9,8 +9,8 @@ import (
 	"errors"
 	"io"
 
-	"github.com/btcsuite/btcd/btcec/v2"
-	"github.com/btcsuite/btcd/btcec/v2/schnorr"
+	btcec "github.com/Causevest/xcvec"
+	"github.com/Causevest/xcvec/schnorr"
 	"github.com/btcsuite/btcd/chaincfg/chainhash"
 )
 

@@ -12,8 +12,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/btcsuite/btcd/btcec/v2"
-	secp "github.com/decred/dcrd/dcrec/secp256k1/v4"
+	secp "github.com/Causevest/secp256k1"
+	btcec "github.com/Causevest/xcvec"
 	"github.com/stretchr/testify/require"
 )
 
